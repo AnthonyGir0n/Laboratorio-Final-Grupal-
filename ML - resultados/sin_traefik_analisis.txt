@@ -1,0 +1,23 @@
+
+Archivo: resultados/sin_traefik.csv
+Duración de la prueba:    121 s
+Solicitudes totales:      4145
+Solicitudes exitosas:     4115
+Solicitudes fallidas:     30
+Throughput (exitosas/s):  34.01
+
+Latencia de las solicitudes exitosas (ms)
+  media:           216.4
+  mediana:          22.9
+  p90:             669.7
+  p95:             768.8
+  p99:             958.4
+  máximo:         1226.6
+  desv. est.:      292.8
+
+Fallas
+  primera: 18:43:52 (segundo 29 de la prueba)
+  última:  18:44:23 (segundo 60 de la prueba)
+
+Histograma guardado en: resultados\sin_traefik_histograma.png
+

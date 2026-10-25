@@ -1,0 +1,21 @@
+
+Archivo: resultados/colgada.csv
+Duración de la prueba:    121 s
+Solicitudes totales:      3433
+Solicitudes exitosas:     3433
+Solicitudes fallidas:     0
+Throughput (exitosas/s):  28.37
+
+Latencia de las solicitudes exitosas (ms)
+  media:           349.3
+  mediana:          23.1
+  p90:             682.2
+  p95:             787.4
+  p99:             992.1
+  máximo:        45066.7
+  desv. est.:     2420.9
+
+Solicitudes con latencia mayor a 5000 ms: 10
+
+Histograma guardado en: resultados\colgada_histograma.png
+
