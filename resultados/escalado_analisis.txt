@@ -1,0 +1,19 @@
+
+Archivo: resultados/escalado.csv
+Duración de la prueba:    122 s
+Solicitudes totales:      5623
+Solicitudes exitosas:     5623
+Solicitudes fallidas:     0
+Throughput (exitosas/s):  46.09
+
+Latencia de las solicitudes exitosas (ms)
+  media:           210.7
+  mediana:          30.1
+  p90:             642.5
+  p95:             754.0
+  p99:             926.3
+  máximo:         1244.9
+  desv. est.:      275.8
+
+Histograma guardado en: resultados\escalado_histograma.png
+
