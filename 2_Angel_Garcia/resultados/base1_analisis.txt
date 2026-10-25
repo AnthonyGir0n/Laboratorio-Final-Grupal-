@@ -1,0 +1,19 @@
+
+Archivo: resultados/base1.csv
+Duración de la prueba:    121 s
+Solicitudes totales:      3973
+Solicitudes exitosas:     3973
+Solicitudes fallidas:     0
+Throughput (exitosas/s):  32.83
+
+Latencia de las solicitudes exitosas (ms)
+  media:           303.9
+  mediana:         320.2
+  p90:             429.4
+  p95:             446.9
+  p99:             479.0
+  máximo:          645.0
+  desv. est.:       82.4
+
+Histograma guardado en: resultados\base1_histograma.png
+
